@@ -9,6 +9,8 @@ body {
 .card {
   border: none;
   border-radius: 15px;
+  background-color: rgb(78, 77, 77);
+  color:white;
 }
 
 .btn-primary {
